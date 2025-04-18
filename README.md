@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Duc Minh, 🐍 A Python Developer</h1>
 ### 🌐 About Me
 
-- 👨‍💻 All of my projects are available at: [github.com/nhducminhqt](https://github.com/nhducminhqt)
-
 - 🌐 My Portfolio: [ducminh-portfolio.vercel.app](https://ducminh-portfolio.vercel.app)
   
 <div>
