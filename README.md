@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Duc Minh, 🐍 A Python Developer</h1>
+### 🌐 About Me
 
-<!--
-**nhducminhqt/nhducminhqt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 All of my projects are available at: [github.com/nhducminhqt](https://github.com/nhducminhqt)
 
-Here are some ideas to get you started:
+- 🌐 My Portfolio: [ducminh-portfolio.vercel.app](https://ducminh-portfolio.vercel.app)
+  
+<div>
+  <p ">
+  <img src="https://komarev.com/ghpvc/?username=nhducminhqt&label=visitors&color=blue" alt="visitor badge"/>
+</p>
+</div>
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhducminhqt&layout=compact&theme=radical" width="47%" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
